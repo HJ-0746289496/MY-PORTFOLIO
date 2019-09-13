@@ -1,0 +1,32 @@
+body{
+
+font-size: 300;
+
+
+}
+
+
+
+h1{
+    color:green;font-size: 200;
+}
+.links{
+    text-decoration-line: none;
+
+}
+.links :hover{
+   color: red;
+   background-color: transparent;
+   text-decoration-line: underline; 
+}
+
+.brief{
+    color:brown;
+}
+
+.me{
+    border: 1px solid blueviolet;
+    margin: 10px;float: left;
+    background-color: aquamarine;
+    
+}
