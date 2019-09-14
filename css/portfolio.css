@@ -2,49 +2,79 @@ body{
 
 text-align: center;
 font-size: 30px;
-background-color: aquamarine;
+background-color: transparent;
+background-image: url(../images/nature5.jpg);
+background-size:cover;
 
 
 }
 
  h1{
-    color:green;font-size: 100px;
-    text-align: center;
-    text-decoration-line: underline;
-}
-h2{
-    text-decoration: underline;
-    
-}
-.links{
-    text-decoration-line: none;
+    color:blueviolet;font-size: 30px;
+    text-decoration-line: underline;float:center;
 
 }
-.links a{
-    text-align: center; 
+
+    
 }
-.links :hover{
+#links{
+    text-decoration-line: none;
+    background-color:transparent;
+    
+
+}
+#links a{
+    text-align: center; 
+    font-size: 15px;
+}
+#links :hover{
    color: red;
    background-color: transparent;
    text-decoration-line: underline; 
 }
 
-.brief{
-    color:brown;
+#brief{
+    color:blue;
 }
 
-.brief h3{
+#brief h3{
     text-decoration: underline;
 }
 
-.me{
+#me{
     border: 1px solid blueviolet;
     margin: 10px;float: left;
     background-color: aquamarine;
     }
-.me h3{
+#me h3{
     color: blueviolet;
 }
-.me h4{
+#me h4{
     color:brown
 }
+
+.nav{
+background-color: black;
+
+}
+
+.nav a{
+    float: right;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 10px;
+   border-bottom:  border: 1px solid red;
+}
+
+.nav :hover{
+    color:yellow;
+    background-color: transparent;
+
+}
+.nav{
+    background-color: black;}
+
+    html{
+        scroll-behavior: smooth;
+    }
