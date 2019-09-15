@@ -5,13 +5,16 @@ font-size: 30px;
 background-color: transparent;
 background-image: url(../images/nature5.jpg);
 background-size:cover;
+}
+#profile{
 
-
+text-align: center;
 }
 
+
  h1{
-    color:blueviolet;font-size: 30px;
-    text-decoration-line: underline;float:center;
+    color:blueviolet;font-size: 50px;
+    text-decoration-line: underline;
 
 }
 
@@ -56,6 +59,7 @@ background-size:cover;
 .nav{
 background-color: black;
 
+
 }
 
 .nav a{
@@ -77,4 +81,7 @@ background-color: black;
 
     html{
         scroll-behavior: smooth;
+    }
+    #contacts :hover{
+        color:brown;
     }
