@@ -19,5 +19,5 @@ It also includes some of the projects i have worked on.
 
 ##### LINK TO LIVE SITE.
 
-HJ-0746289496.github.io/my-portfolio
+
 
