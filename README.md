@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-=======
+
 # MY-PORTFOLIO
 This is about me including all the projects i have worked on,my achievements and hobbies.
->>>>>>> 33dca020f5ce66c21cefd16b57094ca5c1a0df52
-# MY PORTFOLIO.
-
 ## DESCRIPTION OF PROJECT.
 
 This is a project about myself.My educational background ,achievements and also some of my hobbies.
@@ -23,10 +19,7 @@ It also includes some of the projects i have worked on.
 5.Click on Atom . to open the project.
 
 ##### LINK TO LIVE SITE.
+[click to view](HJ-0746289496.github.io/my-portfolio).
 
-<<<<<<< HEAD
 
-=======
-HJ-0746289496.github.io/my-portfolio
->>>>>>> 33dca020f5ce66c21cefd16b57094ca5c1a0df52
 
