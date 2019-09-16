@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# MY-PORTFOLIO
+This is about me including all the projects i have worked on,my achievements and hobbies.
+>>>>>>> 33dca020f5ce66c21cefd16b57094ca5c1a0df52
 # MY PORTFOLIO.
 
 ## DESCRIPTION OF PROJECT.
@@ -19,5 +24,9 @@ It also includes some of the projects i have worked on.
 
 ##### LINK TO LIVE SITE.
 
+<<<<<<< HEAD
 
+=======
+HJ-0746289496.github.io/my-portfolio
+>>>>>>> 33dca020f5ce66c21cefd16b57094ca5c1a0df52
 
