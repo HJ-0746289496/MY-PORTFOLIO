@@ -1,6 +1,10 @@
 
 # MY-PORTFOLIO
 This is about me including all the projects i have worked on,my achievements and hobbies.
+
+## AUTHOR NAME.
+HAMDI JAMA
+
 ## DESCRIPTION OF PROJECT.
 
 This is a project about myself.My educational background ,achievements and also some of my hobbies.
