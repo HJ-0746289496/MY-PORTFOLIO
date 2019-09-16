@@ -23,7 +23,7 @@ It also includes some of the projects i have worked on.
 5.Click on Atom . to open the project.
 
 ##### LINK TO LIVE SITE.
-[click to view](HJ-0746289496.github.io/my-portfolio).
+https://hj-0746289496.github.io/MY-PORTFOLIO/
 
 
 
